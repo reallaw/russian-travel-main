@@ -1,0 +1,28 @@
+.cover {
+    display: grid;
+    margin: 92px auto 0;
+    color: #fff;
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 1024px) {
+    .cover {
+        margin: 92px 0 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .cover {
+        margin: 90px 0 0;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .cover {
+        margin: 66px 0 0;
+    }
+}
+

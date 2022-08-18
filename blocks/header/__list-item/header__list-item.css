@@ -1,0 +1,9 @@
+.header__list-item {
+    display: flex;
+    margin: 0;
+}
+
+.header__list-item:nth-of-type(2n) {
+    margin-left: 18px;
+}
+
