@@ -1,14 +1,12 @@
 .cover {
     display: grid;
     margin: 92px auto 0;
-    color: #fff;
     position: relative;
-    width: 100%;
-    max-width: 100%;
+    max-width: 1184px;
     overflow: hidden;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1084px) {
     .cover {
         margin: 92px 0 0;
     }

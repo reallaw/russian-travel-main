@@ -2,9 +2,9 @@
     display: grid;
     row-gap: 80px;
     margin: 92px auto 0;
-    width: 100%;
     max-width: 984px;
     overflow: hidden;
+    width: fit-content;
 }
 
 

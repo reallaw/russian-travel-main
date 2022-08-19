@@ -6,7 +6,7 @@
     max-width: max-content;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 750px) {
     .footer__copyright {
         font-size: 14px;
         line-height: 14px;

@@ -2,7 +2,7 @@
     color: white;
     width: 100%;
     max-width: 984px;
-    margin: 92px 0 0;
+    margin: 92px auto 0;
 }
 
 @media screen and (max-width: 1024px) {
@@ -22,6 +22,6 @@
 @media screen and (max-width: 320px) {
     .intro {
         margin: 64px 16px 0;
-        max-width: 288px;
+        max-width: 100%;
     }
 }

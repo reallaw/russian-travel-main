@@ -11,3 +11,5 @@
 * Flex
 
 https://reallaw.github.io/russian-travel-main/
+
+V. 0.875 index.html, index.css and blocks edit
