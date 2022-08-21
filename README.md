@@ -12,4 +12,4 @@
 
 https://reallaw.github.io/russian-travel-main/
 
-V. 0.875 index.html, index.css and blocks edit
+V. 0.92525 lead__subtitle fix
