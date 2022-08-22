@@ -12,4 +12,4 @@
 
 https://reallaw.github.io/russian-travel-main/
 
-V. 0.92525 lead__subtitle fix
+V. 1.00 final version [release]

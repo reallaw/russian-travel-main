@@ -1,4 +1,4 @@
-.cover__image {
+.cover__link {
     position: relative;
     display: flex;
     background-image: url('../../../images/cover__background.png');
